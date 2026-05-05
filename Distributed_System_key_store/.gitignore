@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# environments
+.venv/
+env/
+venv/
+
+# logs
+*.log
+cluster.log
+
+# OS
+.DS_Store
